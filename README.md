@@ -1,4 +1,4 @@
-# ☄️ Asteroids
+## ☄️ Asteroids
 
 A high-performance, interactive arcade game built to demonstrate clean architecture and modern development practices.
 
