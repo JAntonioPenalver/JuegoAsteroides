@@ -20,7 +20,7 @@ Ensure you have [Go](https://go.dev/) (version 1.20 or higher) installed on your
 
 
 
-### Running Locally
+### Contributing
 
 ```bash
 git clone [https://github.com/your-username/asteroids.git](https://github.com/your-username/asteroids.git)
